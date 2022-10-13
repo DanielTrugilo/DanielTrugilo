@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yeah, this is a work in progress, soon I'll have a cool README  👋
 
 <!--
 **DanielTrugilo/DanielTrugilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
